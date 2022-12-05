@@ -52,10 +52,6 @@ ul {
   display: flex;
 }
 
-* {
-  border: 1px solid greenyellow;
-}
-
 .left-header {
   display: flex;
   align-items: center;
